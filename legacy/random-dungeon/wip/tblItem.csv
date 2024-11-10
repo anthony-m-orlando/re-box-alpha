@@ -1,0 +1,1056 @@
+ItemID,ItemName,ItemTypeID,ItemSubTypeID,ItemRarityID,ItemQualityID,ItemBasevallue,ItemBaseWeight
+1,Crude Club,2,69,1,1,0.05,2
+2,Improvised Club,2,69,1,1,0,2
+3,Crude Dagger,2,69,1,1,1,1
+4,Crude Greatclub,2,69,1,1,0.1,10
+5,Crude Handaxe,2,69,1,1,2.5,2
+6,Cride Javelin,2,69,1,1,0.025,2
+7,Crude Light Hammer,2,69,1,1,0.5,2
+8,Crude Mace,2,69,1,1,2.5,5
+9,Crude Quarterstaff,2,69,1,1,0.1,5
+10,Crude Sickle,2,69,1,1,0.5,2
+11,Crude Spear,2,69,1,1,0.5,3
+12,Crude Light Crossbow,2,70,1,1,12.5,5
+13,Crude Dart,2,70,1,1,0.015,0.25
+14,Crude Shortbow,2,70,1,1,12.5,3
+15,Crude Sling,2,70,1,1,0.05,0
+16,Crude Battleaxe,2,71,1,1,5,4
+17,Crude Flail,2,71,1,1,5,2
+18,Crude Glaive,2,71,1,1,10,6
+19,Crude Greataxe,2,71,1,1,15,7
+20,Crude Greatsword,2,71,1,1,25,6
+21,Crude Halberd,2,71,1,1,10,6
+22,Crude Lance,2,71,1,1,5,6
+23,Crude Longsword,2,71,1,1,7.5,3
+24,Crude Maul,2,71,1,1,5,10
+25,Crude Morningstar,2,71,1,1,7.5,4
+26,Crude Pike,2,71,1,1,2.5,18
+27,Crude Rapier,2,71,1,1,12.5,2
+28,Crude Scimitar,2,71,1,1,12.5,3
+29,Crude Shortsword,2,71,1,1,5,2
+30,Crude Trident,2,71,1,1,2.5,5
+31,Crude War pick,2,71,1,1,2.5,2
+32,Crude Warhammer,2,71,1,1,7.5,2
+33,Crude Whip,2,71,1,1,1,3
+34,Crude Blowgun,2,72,1,1,5,1
+35,Crude Hand Crossbow,2,72,1,1,37.5,3
+36,Crude Heavy Crossbow,2,72,1,1,25,18
+37,Crude Longbow,2,72,1,1,25,2
+38,Crude Net,2,72,1,1,0.5,3
+39,Club,2,69,2,2,0.1,2
+40,Dagger,2,69,2,2,2,1
+41,Greatclub,2,69,2,2,2,10
+42,Handaxe,2,69,2,2,5,2
+43,Javelin,2,69,2,2,0.5,2
+44,Light Hammer,2,69,2,2,2,2
+45,Mace,2,69,2,2,5,5
+46,Quarterstaff,2,69,2,2,0.2,5
+47,Sickle,2,69,2,2,1,2
+48,Spear,2,69,2,2,1,3
+49,Light Crossbow,2,70,2,2,25,5
+50,Dart,2,70,2,2,0.05,0.25
+51,Shortbow,2,70,2,2,25,3
+52,Sling,2,70,2,2,0.1,0
+53,Battleaxe,2,71,2,2,10,4
+54,Flail,2,71,2,2,10,2
+55,Glaive,2,71,2,2,20,6
+56,Greataxe,2,71,2,2,30,7
+57,Greatsword,2,71,2,2,50,6
+58,Halberd,2,71,2,2,20,6
+59,Lance,2,71,2,2,10,6
+60,Longsword,2,71,2,2,15,3
+61,Maul,2,71,2,2,10,10
+62,Morningstar,2,71,2,2,15,4
+63,Pike,2,71,2,2,5,18
+64,Rapier,2,71,2,2,25,2
+65,Scimitar,2,71,2,2,25,3
+66,Shortsword,2,71,2,2,10,2
+67,Trident,2,71,2,2,5,5
+68,War pick,2,71,2,2,5,2
+69,Warhammer,2,71,2,2,15,2
+70,Whip,2,71,2,2,2,3
+71,Blowgun,2,72,2,2,10,1
+72,Hand Crossbow,2,72,2,2,75,3
+73,Heavy Crossbow,2,72,2,2,50,18
+74,Longbow,2,72,2,2,50,2
+75,Net,2,72,2,2,1,3
+76,Masterwork Club,2,69,3,3,10,2
+77,Masterwork Dagger,2,69,3,3,200,1
+78,Masterwork Greatclub,2,69,3,3,200,10
+79,Masterwork Handaxe,2,69,3,3,500,2
+80,Masterwork Javelin,2,69,3,3,50,2
+81,Masterwork Light Hammer,2,69,3,3,200,2
+82,Masterwork Mace,2,69,3,3,500,5
+83,Masterwork Quarterstaff,2,69,3,3,20,5
+84,Masterwork Sickle,2,69,3,3,100,2
+85,Masterwork Spear,2,69,3,3,100,3
+86,Masterwork Light Crossbow,2,70,3,3,2500,5
+87,Masterwork Dart,2,70,3,3,5,0.25
+88,Masterwork Shortbow,2,70,3,3,250,3
+89,Masterwork Sling,2,70,3,3,10,0
+90,Masterwork Battleaxe,2,71,3,3,100,4
+91,Masterwork Flail,2,71,3,3,1000,2
+92,Masterwork Glaive,2,71,3,3,200,6
+93,Masterwork Greataxe,2,71,3,3,300,7
+94,Masterwork Greatsword,2,71,3,3,500,6
+95,Masterwork Halberd,2,71,3,3,200,6
+96,Masterwork Lance,2,71,3,3,100,6
+97,Masterwork Longsword,2,71,3,3,150,3
+98,Masterwork Maul,2,71,3,3,100,10
+99,Masterwork Morningstar,2,71,3,3,150,4
+100,Masterwork Pike,2,71,3,3,500,18
+101,Masterwork Rapier,2,71,3,3,250,2
+102,Masterwork Scimitar,2,71,3,3,250,3
+103,Masterwork Shortsword,2,71,3,3,100,2
+104,Masterwork Trident,2,71,3,3,500,5
+105,Masterwork War pick,2,71,3,3,500,2
+106,Masterwork Warhammer,2,71,3,3,1500,2
+107,Masterwork Whip,2,71,3,3,200,3
+108,Masterwork Blowgun,2,72,3,3,100,1
+109,Masterwork Hand Crossbow,2,72,3,3,750,3
+110,Masterwork Heavy Crossbow,2,72,3,3,500,18
+111,Masterwork Longbow,2,72,3,3,500,2
+112,Masterwork Net,2,72,3,3,100,3
+113,Crude Padded,3,36,1,1,2.5,8
+114,Crude Leather,3,36,1,1,5,10
+115,Crude Studded Leather,3,36,1,1,22.5,13
+116,Crude Hide,3,41,1,1,5,12
+117,Crude Chain Shirt,3,41,1,1,25,20
+118,Crude Scail Mail,3,41,1,1,25,45
+119,Crude Breastplate,3,41,1,1,200,20
+120,Crude Half Plate,3,41,1,1,375,40
+121,Crude Ring Mail,3,31,1,1,15,40
+122,Crude Chain Mail,3,31,1,1,37.5,55
+123,Crude Splint,3,31,1,1,100,60
+124,Crude Plate,3,31,1,1,750,65
+125,Crude Shield,3,31,1,1,5,6
+126,Padded,3,36,1,2,5,8
+127,Leather,3,36,1,2,10,10
+128,Studded Leather,3,36,1,2,45,13
+129,Hide,3,41,1,2,10,12
+130,Chain Shirt,3,41,1,2,50,20
+131,Scail Mail,3,41,1,2,50,45
+132,Breastplate,3,41,1,2,400,20
+133,Half Plate,3,41,1,2,750,40
+134,Ring Mail,3,31,1,2,30,40
+135,Chain Mail,3,31,1,2,75,55
+136,Splint,3,31,1,2,200,60
+137,Plate,3,31,1,2,1500,65
+138,Shield,3,31,1,2,10,6
+139,Masterwork Padded,3,36,1,3,500,8
+140,Masterwork Leather,3,36,1,3,1000,10
+141,Masterwork Studded Leather,3,36,1,3,4500,13
+142,Masterwork Hide,3,41,1,3,1000,12
+143,Masterwork Chain Shirt,3,41,1,3,5000,20
+144,Masterwork Scail Mail,3,41,1,3,5000,45
+145,Masterwork Breastplate,3,41,1,3,40000,20
+146,Masterwork Half Plate,3,41,1,3,75000,40
+147,Masterwork Ring Mail,3,31,1,3,3000,40
+148,Masterwork Chain Mail,3,31,1,3,7500,55
+149,Masterwork Splint,3,31,1,3,20000,60
+150,Masterwork Plate,3,31,1,3,12000,65
+151,Masterwork Shield,3,31,1,3,1000,6
+152,Abacus,4,66,3,2,2,2
+153,Vial of Acid,1,66,4,2,25,1
+154,Flask of Alchemists Fire,4,5,4,2,50,1
+155,20 Arrows,4,5,2,2,1,1
+156,50 Blowgun Needles,4,5,2,2,1,1
+157,20 Crossbow Bolts,4,5,2,2,1,1.5
+158,20 Sling Bullets,4,5,2,2,0.04,1.5
+159,Orb Arcane Focus,5,38,4,2,20,3
+160,Rod Arcane Focus,5,38,4,2,10,2
+161,Staff Arcane Focus,5,38,4,2,5,4
+162,Wand Arcane Focus,5,38,4,2,10,1
+163,Backpack,6,3,2,2,2,5
+164,1000 Balbearings,4,66,3,2,1,2
+165,Barrel,6,6,2,2,2,70
+166,Basket,6,7,2,2,0.4,2
+167,Bedroll,4,66,2,2,1,7
+168,Bell,4,66,2,2,1,0
+169,Blanket,4,66,1,2,0.5,3
+170,Block and Tackle,4,66,3,2,1,5
+171,Empty Book,4,8,2,2,25,5
+172,Glass Bottle,4,6,2,2,2,2
+173,Bucket,4,66,1,2,0.05,2
+174,20 Caltrops,4,66,3,2,1,2
+175,Candle,4,66,1,2,0.01,0
+176,Bolt Case,4,66,3,2,1,1
+177,Scroll Case,6,14,2,2,1,1
+178,10 Feet of Chain,4,66,2,2,5,10
+179,1 Piece of Chalk,4,66,1,2,0.01,0
+180,Wooden Chest,6,15,3,2,5,25
+181,Climber's kit,4,66,3,2,25,12
+182,Common Clothes,4,17,1,2,0.5,3
+183,Costume,4,17,3,2,5,4
+184,Fine Clothes,4,17,3,2,15,6
+185,Traveler's Clothes,4,17,2,2,2,4
+186,Component Pouch,6,49,3,2,25,2
+187,Crowbar,4,66,2,2,2,5
+188,Sprig of Mistletoe Druidic Focus,4,11,4,2,1,0
+189,Totem Druidic Focus,4,11,4,2,1,0
+190,Wooden Staff Druidic Focus,4,11,4,2,5,4
+191,Yew Wand Druidic Focus,4,11,4,2,10,1
+192,Steel Flask,6,24,3,2,1,4
+193,Tankard,4,66,2,2,0.02,1
+194,Grappling Hook,4,66,4,2,2,4
+195,Hammer,4,66,1,2,1,3
+196,Sledge Hammer,4,66,3,2,2,10
+197,Healer's kit,4,66,3,2,5,3
+198,Amulet Holy Symbol,4,56,4,2,5,1
+199,Emblem Holy Symbol,4,56,4,2,5,0
+200,Reliquary Holy Symbol,4,56,4,2,5,2
+201,Flask of Holy Water,1,74,4,2,25,1
+202,Hourglass ,4,66,3,2,1,1
+203,Hunting Trap,4,66,3,2,25,25
+204,1 Ounce Bottle of Ink,4,66,2,2,10,0
+205,Ink pen,4,66,2,2,0.02,0
+206,Jug or pitcher,6,66,1,2,4,4
+207,10 Foot Ladder,4,66,2,2,0.1,25
+208,Lamp,4,66,2,2,0.5,1
+209,Bullseye Lantern,4,66,4,2,10,2
+210,Hooded Lantern,4,66,4,2,5,2
+211,Lock,4,66,3,2,10,1
+212,Magnifying glass,4,66,4,2,100,0
+213,Manacles,4,66,3,2,2,6
+214,Mess Kit,4,66,2,2,0.2,1
+215,Steel Mirror,4,66,2,2,5,0.25
+216,Flask of Oil,1,44,3,2,0.1,1
+217,One Sheet of Paper,4,66,2,2,0.2,0
+218,One Sheet of Parchment,4,66,1,2,0.1,0
+219,Miner's Pick,4,66,2,2,2,10
+220,Piton,4,66,2,2,5,25
+221,Vial of Basic Poison,1,75,4,2,100,0
+222,10 Foot Pole,4,66,2,2,0.05,7
+223,Iron Pot,4,66,2,2,2,10
+224,Potion of Healing,1,48,3,2,50,0.5
+225,Pouch,6,49,2,2,0.5,1
+226,Quiver,6,50,2,2,1,1
+227,PorRam,4,66,4,2,4,35
+228,1 Day of Rations,1,76,2,2,0.5,2
+229,Robes,4,17,2,2,1,4
+230,50 Feet of Hemp Rope,4,66,2,2,1,10
+231,50 Feet of Silk Rope,4,66,3,2,10,5
+232,Sack,6,77,2,2,0.01,0.5
+233,Merchant's Scale,4,66,4,2,5,3
+234,Sealing wax,4,66,3,2,0.5,0
+235,Shovel,4,66,2,2,2,5
+236,Signal whistle,4,66,3,2,0.05,0
+237,Signet Ring,4,53,3,2,5,0
+238,Soap,4,66,1,2,0.02,0
+239,Spellbook,4,8,4,2,50,3
+240,10 Iron Spikes,4,66,2,2,1,5
+241,Spyglass,4,66,4,2,1000,1
+242,Two Person Tent,4,66,2,2,2,20
+243,Tinderbox,4,66,2,2,0.5,1
+244,Torch,4,66,1,2,0.01,1
+245,Vial,6,67,3,2,1,0
+246,Waterskin,6,68,2,2,0.2,5
+247,Whetstone,4,66,2,2,0.01,1
+248,Alchemy Jug,5,34,2,4,"2,000",1
+249,Amulet of Health,5,1,3,4,"8,000",0
+250,Amulet of Life Protection,5,1,3,4,"9,000",0
+251,Amulet of Proof Against Detection and Location,5,1,2,4,"10,000",0
+252,Amulet of the Planes,5,1,4,4,"60,000",0
+253,Animated Shield,5,60,4,4,"6,000",5
+254,Apparatus of Kwalish,5,2,5,5,"10,000",500
+255,Armor of Invulnerability,5,31,5,5,"18,000",65
+256,Arrow +1,5,5,2,4,15,1
+257,Arrow +2,5,5,3,4,50,1
+258,Arrow +3,5,5,4,4,50,1
+259,Arrow-Catching Shield,5,60,3,4,"5,000",5
+260,Bag of Holding,5,4,2,4,"2,000",1
+261,Battleaxe +1,5,71,2,4,"1,000",4
+262,Battleaxe +2,5,71,3,4,"3,000",4
+263,Battleaxe +3,5,71,4,4,"15,000",4
+264,Bead of Force,5,78,3,4,"1,000",0
+265,Belt of Cloud Giant Strength,5,84,5,5,"150,000",2
+266,Belt of Dwarvenkind,5,84,3,4,"6,000",2
+267,Belt of Fire Giant Strength,5,84,4,4,"60,000",2
+268,Belt of Frost Giant Strength,5,84,4,4,"25,000",2
+269,Belt of Hill Giant Strength,5,84,3,4,"1,500",2
+270,Belt of Stone Giant Strength,5,84,4,4,"25,000",2
+271,Belt of Storm Giant Strength,5,84,5,5,"300,000",2
+272,Blade of Swiftness,5,71,5,5,"20,000",3
+273,Blink Dagger,5,69,5,5,"20,000",1
+274,Blowgun +1,5,72,2,4,"1,000",1
+275,Blowgun +2,5,72,3,4,"3,000",1
+276,Blowgun +3,5,72,4,4,"15,000",1
+277,Bolt +1,5,5,2,4,15,1.5
+278,Bolt +2,5,5,3,4,50,1.5
+279,Bolt +3,5,5,4,4,50,1.5
+280,Boots of Elvenkind,5,82,2,4,"2,500",5
+281,Boots of Levitation,5,82,3,4,"2,000",5
+282,Boots of Speed,5,82,3,4,"4,000",5
+283,Boots of Striding and Springing,5,82,2,4,"3,000",5
+284,Boots of the Winterlands,5,82,2,4,"5,000",5
+285,Bracers of Archery,5,27,2,4,"1,500",3
+286,Bracers of Defense,5,27,3,4,"6,000",3
+287,Breastplate +1,5,41,3,4,"1,500",20
+288,Breastplate +2,5,41,4,4,"4,000",20
+289,Breastplate +3,5,41,5,5,"25,000",20
+290,Brooch of Shielding,5,23,2,4,"7,500",0
+291,Broom of Flying,5,2,2,4,"5,000",1
+292,Cap of Water Breathing,5,17,2,4,"1,000",1
+293,Cape of the Mountebank,5,16,3,4,"8,000",1
+294,Carpet of Flying 3x5,5,2,4,4,"8,000",10
+295,Carpet of Flying 4x6,5,2,4,4,"16,000",15
+296,Carpet of Flying 5x7,5,2,4,4,"24,000",20
+297,Carpet of Flying 6x9,5,2,4,4,"32,000",25
+298,Chain Mail +1,5,31,3,4,"1,500",55
+299,Chain Mail +2,5,31,4,4,"4,000",55
+300,Chain Mail +3,5,31,5,5,"25,000",55
+301,Chain Shirt +1,5,41,3,4,"1,500",20
+302,Chain Shirt +2,5,41,4,4,"4,000",20
+303,Chain Shirt +3,5,41,5,5,"25,000",20
+304,Chime of Opening,5,33,3,4,"1,500",2
+305,Circlet of Blasting,5,83,2,4,"1,500",0
+306,Cloak of Arachnida,5,16,4,4,"3,000",1
+307,Cloak of Displacement,5,16,3,4,"10,000",1
+308,Cloak of Elvenkind,5,16,2,4,"4,000",1
+309,Cloak of Invisibility,5,16,5,5,"50,000",1
+310,Cloak of Protection,5,16,2,4,"3,500",1
+311,Cloak of the Bat,5,16,3,4,"3,000",1
+312,Cloak of the Manta Ray,5,16,2,4,"2,000",1
+313,Club +1,5,69,2,4,"1,000",2
+314,Club +2,5,69,3,4,"3,000",2
+315,Club +3,5,69,4,4,"15,000",2
+316,Crystal Ball,5,19,4,4,"50,000",2
+317,Cube of Force,5,20,3,4,"16,000",1
+318,Cubic Gate,5,20,5,5,"40,000",1
+319,Daern's Instant Fortress,5,2,3,4,"75,000",1
+320,Dagger +1,5,69,2,4,"1,000",1
+321,Dagger +2,5,69,3,4,"3,000",1
+322,Dagger +3,5,69,4,4,"15,000",1
+323,Dagger of Venom,5,69,3,4,"1,500",1
+324,Dancing Sword,5,71,4,4,"2,000",3
+325,Dart +1,5,70,2,4,"1,000",0.25
+326,Dart +2,5,70,3,4,"3,000",0.25
+327,Dart +3,5,70,4,4,"15,000",0.25
+328,Decanter of Endless Water,5,79,2,4,"5,000",0
+329,Deck of Illusions,5,21,2,4,"6,000",0
+330,Defender,5,71,5,5,"20,000",3
+331,Dimensional Shackles,5,59,3,4,"3,000",0
+332,Dragon Slayer,5,71,3,4,"4,000",3
+333,Driftglobe,5,46,2,4,750,0
+334,Dust of Disappearance,5,22,2,4,300,0
+335,Dust of Dryness(Per Pinch),5,22,2,4,100,0
+336,Dust of Sneezing and Choking,5,22,2,4,500,0
+337,Dwarven Plate,5,31,4,4,"9,000",65
+338,Dwarven Thrower,5,71,4,4,"10,000",3
+339,Eldritch Tin Whistle,5,33,3,4,"1,500",1
+340,Elemental Gem,5,25,2,4,"1,000",0
+341,Elixir of Health,5,48,3,4,120,1
+342,Elven Chain,5,31,3,4,"4,000",20
+343,Eversmoking Bottle,5,79,2,4,"1,000",0
+344,Eyes of Charming,5,28,2,4,"3,000",0
+345,Eyes of Minute Seeing,5,28,2,4,"2,500",0
+346,Eyes of the Eagle,5,28,2,4,"2,500",0
+347,Felix's Endless Healing Elixir,5,48,5,5,"15,000",1
+348,Flail +1,5,71,2,4,"1,000",2
+349,Flail +2,5,71,3,4,"3,000",2
+350,Flail +3,5,71,4,4,"15,000",2
+351,Flame Tongue,5,71,3,4,"4,500",3
+352,Frost Brand,5,71,4,4,"2,000",3
+353,Gauntlets of Ogre Power,5,27,2,4,"8,000",4
+354,Gem of Brightness,5,25,2,4,"5,000",0
+355,Gem of Seeing,5,25,3,4,"10,000",0
+356,Giant Slayer,5,71,3,4,"4,000",3
+357,Glaive +1,5,71,2,4,"1,000",6
+358,Glaive +2,5,71,3,4,"3,000",6
+359,Glaive +3,5,71,4,4,"15,000",6
+360,Glamoured Armor,5,36,3,4,"2,000",10
+361,Gloves of Missile Snaring,5,27,2,4,"3,000",2
+362,Gloves of Swimming and Climbing,5,27,2,4,"2,000",2
+363,Gloves of Thievery,5,27,2,4,"1,000",2
+364,Goggles of Night,5,28,2,4,"1,500",0
+365,Greataxe +1,5,71,2,4,"1,000",7
+366,Greataxe +2,5,71,3,4,"3,000",7
+367,Greataxe +3,5,71,4,4,"15,000",7
+368,Greatclub +1,5,69,2,4,"1,000",10
+369,Greatclub +2,5,69,3,4,"3,000",10
+370,Greatclub +3,5,69,4,4,"15,000",10
+371,Greatsword +1,5,71,2,4,"1,000",6
+372,Greatsword +2,5,71,3,4,"3,000",6
+373,Greatsword +3,5,71,4,4,"15,000",6
+374,Halberd +1,5,71,2,4,"1,000",6
+375,Halberd +2,5,71,3,4,"3,000",6
+376,Halberd +3,5,71,4,4,"15,000",6
+377,Half Plate +1,5,41,3,4,"1,500",40
+378,Half Plate +2,5,41,4,4,"4,000",40
+379,Half Plate +3,5,41,5,5,"25,000",40
+380,Hammer of Thunderbolts,5,71,5,5,"11,000",3
+381,Hand Crossbow +1,5,72,2,4,"1,000",3
+382,Hand Crossbow +2,5,72,3,4,"3,000",3
+383,Hand Crossbow +3,5,72,4,4,"15,000",3
+384,Handaxe +1,5,69,2,4,"1,000",2
+385,Handaxe +2,5,69,3,4,"3,000",2
+386,Handaxe +3,5,69,4,4,"15,000",2
+387,Hat of Disguise,5,29,2,4,"2,000",1
+388,Headband of Intellect,5,83,2,4,"8,000",0
+389,Heavy Crossbow +1,5,72,2,4,"1,000",18
+390,Heavy Crossbow +2,5,72,3,4,"3,000",18
+391,Heavy Crossbow +3,5,72,4,4,"15,000",18
+392,Helm of Brilliance,5,32,4,4,"40,000",5
+393,Helm of Comprehend Languages,5,32,2,4,500,5
+394,Helm of Telepathy,5,32,2,4,"12,000",5
+395,Helm of Teleportation,5,32,3,4,"40,000",5
+396,Heward's Handy Haversack,5,30,3,4,"2,000",5
+397,Hide +1,5,41,3,4,"1,500",12
+398,Hide +2,5,41,4,4,"4,000",12
+399,Hide +3,5,41,5,5,"25,000",12
+400,Holy Avenger,5,71,5,5,"150,000",3
+401,Horn of Blasting,5,33,3,4,450,5
+402,Immovable Rod,5,55,2,4,500,2
+403,Instrument of the Bards - Anstruth Harp,5,33,4,4,"50,000",5
+404,Instrument of the Bards - Canaith Mandolin,5,33,3,4,"22,000",5
+405,Instrument of the Bards - Cli Lyre,5,33,3,4,"20,000",5
+406,Instrument of the Bards - Doss Lute,5,33,2,4,"18,500",5
+407,Instrument of the Bards - Fochulan Bandlore,5,33,2,4,"15,500",5
+408,Instrument of the Bards - Mac-Fuirmidh Cittern,5,33,2,4,"17,000",5
+409,Instrument of the Bards - Ollamh Harp,5,33,5,5,"70,000",5
+410,Ioun Stone Absorption,5,63,4,4,"2,400",0
+411,Ioun Stone Agility,5,63,4,4,"3,000",0
+412,Ioun Stone Awareness,5,63,3,4,"12,000",0
+413,Ioun Stone Fortitude,5,63,4,4,"3,000",0
+414,Ioun Stone Greater Absorption,5,63,5,5,"30,000",0
+415,Ioun Stone Insight,5,63,4,4,"3,000",0
+416,Ioun Stone Intellect,5,63,4,4,"3,000",0
+417,Ioun Stone Leadership,5,63,4,4,"3,000",0
+418,Ioun Stone Mastery,5,63,5,5,"15,000",0
+419,Ioun Stone Protection,5,63,3,4,"1,200",0
+420,Ioun Stone Regeneration,5,63,5,5,"5,000",0
+421,Ioun Stone Reserve,5,63,3,4,"6,000",0
+422,Ioun Stone Strength,5,63,4,4,"3,000",0
+423,Ioun Stone Sustenance,5,63,3,4,"1,000",0
+424,Iron Bands of Bilarro,5,83,3,4,"4,000",0
+425,Javelin +1,5,69,2,4,"1,000",2
+426,Javelin +2,5,69,3,4,"3,000",2
+427,Javelin +3,5,69,4,4,"15,000",2
+428,Javelin of Lightning,5,69,2,4,500,2
+429,Keoghtom's Ointment (1 Dose),5,45,2,4,150,0
+430,Lance +1,5,71,2,4,"1,000",6
+431,Lance +2,5,71,3,4,"3,000",6
+432,Lance +3,5,71,4,4,"15,000",6
+433,Lantern of Revealing,5,35,2,4,"1,500",1
+434,Leather +1,5,36,3,4,"1,500",10
+435,Leather +2,5,36,4,4,"4,000",10
+436,Leather +3,5,36,5,5,"25,000",10
+437,Light Crossbow +1,5,70,2,4,"1,000",5
+438,Light Crossbow +2,5,70,3,4,"3,000",5
+439,Light Crossbow +3,5,70,4,4,"15,000",5
+440,Light Hammer +1,5,69,2,4,"1,000",2
+441,Light Hammer +2,5,69,3,4,"3,000",2
+442,Light Hammer +3,5,69,4,4,"15,000",2
+443,Longbow +1,5,72,2,4,"1,000",2
+444,Longbow +2,5,72,3,4,"3,000",2
+445,Longbow +3,5,72,4,4,"15,000",2
+446,Longsword +1,5,71,2,4,"1,000",3
+447,Longsword +2,5,71,3,4,"3,000",3
+448,Longsword +3,5,71,4,4,"15,000",3
+449,Luck Blade (Per Charge),5,71,5,5,"50,000",3
+450,Luckstone,5,63,2,4,"4,200",0
+451,Mace +1,5,69,2,4,"1,000",5
+452,Mace +2,5,69,3,4,"3,000",5
+453,Mace +3,5,69,4,4,"15,000",5
+454,Mace of Disruption,5,69,3,4,"6,000",5
+455,Mace of Smiting,5,69,3,4,"5,000",5
+456,Mace of Terror,5,69,3,4,"6,000",5
+457,Mantle of Spell Resistance,5,16,3,4,"15,000",1
+458,Manual of Bodily Health,5,39,4,4,"55,000",1
+459,Manual of Gainful Exercise,5,39,4,4,"55,000",1
+460,Manual of Glamour and Prestige,5,39,4,4,"55,000",1
+461,Manual of Prudent Foresight,5,39,4,4,"55,000",1
+462,Manual of Quickness of Action,5,39,4,4,"55,000",1
+463,Manual of Sharpened Mind,5,39,4,4,"55,000",1
+464,Maul +1,5,71,2,4,"1,000",10
+465,Maul +2,5,71,3,4,"3,000",10
+466,Maul +3,5,71,4,4,"15,000",10
+467,Medallion of Thoughts,5,40,2,4,"2,000",1
+468,Mirror of Life Trapping,5,42,4,4,"18,000",1
+469,Morningstar +1,5,71,2,4,"1,000",4
+470,Morningstar +2,5,71,3,4,"3,000",4
+471,Morningstar +3,5,71,4,4,"15,000",4
+472,Necklace of Adaption,5,43,2,4,"1,500",0
+473,Necklace of Fireballs (1 bead),5,43,3,4,300,0
+474,Necklace of Fireballs (2 beads),5,43,3,4,500,0
+475,Necklace of Fireballs (3 beads),5,43,3,4,"1,000",0
+476,Necklace of Fireballs (4 beads),5,43,3,4,"1,600",0
+477,Necklace of Fireballs (5 beads),5,43,3,4,"4,000",0
+478,Necklace of Fireballs (6 beads),5,43,3,4,"8,000",0
+479,Net +1,5,72,2,4,"1,000",3
+480,Net +2,5,72,3,4,"3,000",3
+481,Net +3,5,72,4,4,"15,000",3
+482,Nine Lives Stealer (Fully Charged),5,71,4,4,"7,000",3
+483,Nolzur's Marvelous Pigments,5,44,4,4,200,0
+484,Oathbow,5,72,4,4,"3,000",2
+485,Oil of Etherealness,5,44,3,4,"1,920",0
+486,Oil of Sharpness,5,44,4,4,"3,200",0
+487,Oil of Slipperiness,5,44,2,4,480,0
+488,Padded +1,5,36,3,4,"1,500",8
+489,Padded +2,5,36,4,4,"4,000",8
+490,Padded +3,5,36,5,5,"25,000",8
+491,Pearl of Power,5,25,2,4,"6,000",0
+492,Periapt of Health,5,47,2,4,"4,000",0
+493,Periapt of Proof Against Poison,5,47,3,4,"5,000",0
+494,Periapt of Wound Closure,5,47,2,4,"5,000",0
+495,Philter of Love,5,48,2,4,90,1
+496,Pike +1,5,71,2,4,"1,000",18
+497,Pike +2,5,71,3,4,"3,000",18
+498,Pike +3,5,71,4,4,"15,000",18
+499,Pipes of Haunting,5,33,2,4,"2,000",2
+500,Pipes of the Sewers,5,33,2,4,"2,000",2
+501,Plate +1,5,31,3,4,"1,500",65
+502,Plate +2,5,31,4,4,"4,000",65
+503,Plate +3,5,31,5,5,"25,000",65
+504,Plate Armor of Etherealness,5,31,5,5,"48,000",65
+505,Portable Hole,5,2,3,4,"6,000",0
+506,Potion of Animal Friendship,5,48,2,4,200,1
+507,Potion of Clairvoyance,5,48,3,4,960,1
+508,Potion of Climbing,5,48,1,4,180,1
+509,Potion of Cloud Giant Strength,5,48,4,4,"1,990",1
+510,Potion of Diminution,5,48,3,4,270,1
+511,Potion of Fire Breath,5,48,2,4,150,1
+512,Potion of Fire Giant Strength,5,48,3,4,"1,300",1
+513,Potion of Flying,5,48,4,4,500,1
+514,Potion of Frost Giant Strength,5,48,3,4,750,1
+515,Potion of Gaseous Form,5,48,3,4,300,1
+516,Potion of Greater Healing,5,48,2,4,150,1
+517,Potion of Growth,5,48,2,4,270,1
+518,Potion of Healing,5,48,1,4,50,1
+519,Potion of Heroism,5,48,3,4,180,1
+520,Potion of Hill Giant Strength,5,48,2,4,400,1
+521,Potion of Invisibility,5,48,4,4,180,1
+522,Potion of Invulnerability,5,48,4,4,"3,840",1
+523,Potion of Longevity,5,48,4,4,"9,000",1
+524,Potion of Mind Reading,5,48,3,4,180,1
+525,Potion of Poison,5,48,2,4,100,1
+526,Potion of Resistance,5,48,2,4,300,1
+527,Potion of Speed,5,48,4,4,400,1
+528,Potion of Storm Giant Strength,5,48,5,5,"3,000",1
+529,Potion of Superior Healing,5,48,3,4,450,1
+530,Potion of Supreme Healing,5,48,4,4,"1,350",1
+531,Potion of Vitality,5,48,4,4,960,1
+532,Potion of Water Breathing,5,48,2,4,180,1
+533,Prayer Bead - Bless,5,78,3,4,"2,000",0
+534,Prayer Bead - Curing,5,78,3,4,"4,000",0
+535,Prayer Bead - Favor,5,78,3,4,"32,000",0
+536,Prayer Bead - Smiting,5,78,3,4,"1,500",0
+537,Prayer Bead - Summons,5,78,3,4,"128,000",0
+538,Prayer Bead - Wind Walking,5,78,3,4,"96,000",0
+539,Quaal's Feather Token Anchor,5,65,3,4,50,0
+540,Quaal's Feather Token Bird,5,65,3,4,"3,000",0
+541,Quaal's Feather Token Fan,5,65,3,4,250,0
+542,Quaal's Feather Token Swan Boat,5,65,3,4,"2,000",0
+543,Quaal's Feather Token Tree,5,65,3,4,500,0
+544,Quaal's Feather Token Whip,5,65,3,4,250,0
+545,Quarterstaff +1,5,69,2,4,"1,000",5
+546,Quarterstaff +2,5,69,3,4,"3,000",5
+547,Quarterstaff +3,5,69,4,4,"15,000",5
+548,Quiver of Ehlonna,5,50,2,4,"1,000",5
+549,Rapier +1,5,71,2,4,"1,000",2
+550,Rapier +2,5,71,3,4,"3,000",2
+551,Rapier +3,5,71,4,4,"15,000",2
+552,Ring Mail +1,5,31,3,4,"1,500",40
+553,Ring Mail +2,5,31,4,4,"4,000",40
+554,Ring Mail +3,5,31,5,5,"25,000",40
+555,Ring of Air Elemental Command,5,53,5,5,"35,000",0
+556,Ring of Animal Influence,5,53,3,4,"4,000",0
+557,Ring of Earth Elemental Command,5,53,5,5,"31,000",0
+558,Ring of Evasion,5,53,3,4,"5,000",0
+559,Ring of Feather Falling,5,53,3,4,"1,500",0
+560,Ring of Fire Elemental Command,5,53,5,5,"15,000",0
+561,Ring of Free Action,5,53,3,4,"10,000",0
+562,Ring of Invisibility,5,53,5,5,"10,000",0
+563,Ring of Jumping,5,53,2,4,"2,500",0
+564,Ring of Mind Shielding,5,53,2,4,"16,000",0
+565,Ring of Protection,5,53,3,4,"3,500",0
+566,Ring of Regeneration,5,53,4,4,"10,000",0
+567,Ring of Resistance,5,53,3,4,"6,000",0
+568,Ring of Shooting Stars,5,53,4,4,"15,000",0
+569,Ring of Spell Storing,5,53,3,4,"19,000",0
+570,Ring of Spell Turning,5,53,5,5,"20,000",0
+571,Ring of Swimming,5,53,2,4,"3,000",0
+572,Ring of Telekinesis,5,53,4,4,"80,000",0
+573,Ring of the Ram,5,53,3,4,"3,000",0
+574,Ring of the Raven,5,53,3,4,"3,000",0
+575,Ring of Three Wishes,5,53,5,5,"150,000",0
+576,Ring of Warmth,5,53,2,4,"1,000",0
+577,Ring of Water Elemental Command,5,53,5,5,"20,000",0
+578,Ring of Water Walking,5,53,2,4,"1,500",0
+579,Ring of X-Ray Vision,5,53,3,4,"60,000",0
+580,Robe of Eyes,5,54,3,4,"20,000",4
+581,Robe of Scintillating Colors,5,54,4,4,"6,000",4
+582,Robe of Stars,5,54,4,4,"30,000",4
+583,Robe of the Archmagi,5,54,5,5,"50,000",4
+584,Robe of Useful Items,5,54,2,4,"7,000",0
+585,Robes of Instinct,5,54,4,4,"12,000",4
+586,Rod of Absorption,5,55,4,4,"50,000",2
+587,Rod of Alertness,5,55,4,4,"25,000",2
+588,Rod of Lordly Might,5,55,5,5,"28,000",2
+589,Rod of Ressurection,5,55,5,5,"50,000",2
+590,Rod of Rulership,5,55,3,4,"16,000",2
+591,Rod of Security,5,55,4,4,"90,000",2
+592,Rod of the Pact Keeper +1,5,55,2,4,"12,000",2
+593,Rod of the Pact Keeper +2,5,55,3,4,"16,000",2
+594,Rod of the Pact Keeper +3,5,55,4,4,"28,000",2
+595,Rope of Climbing,5,8,2,4,500,5
+596,Rope of Climbing,5,81,2,4,"2,000",5
+597,Rope of Entanglement,5,8,3,4,"4,000",3
+598,Scail Mail +1,5,41,3,4,"1,500",45
+599,Scail Mail +2,5,41,4,4,"4,000",45
+600,Scail Mail +3,5,41,5,5,"25,000",45
+601,Scarab of Protection,5,40,5,5,"30,000",0
+602,Scimitar +1,5,71,2,4,"1,000",3
+603,Scimitar +2,5,71,3,4,"3,000",3
+604,Scimitar +3,5,71,4,4,"15,000",3
+605,Scimitar of Speed,5,71,4,4,"5,000",3
+606,Scroll of Protection,5,58,3,4,200,0
+607,Seal of the Moon,5,23,3,4,"2,500",0
+608,Sending Stones,5,63,2,4,500,0
+609,Sentinel Shield,5,60,2,4,"9,000",5
+610,Shield + 1,5,60,2,4,"1,000",5
+611,Shield + 2,5,60,3,4,"4,000",5
+612,Shield + 3,5,60,5,5,"25,000",5
+613,Shield +1,5,31,3,4,"1,500",6
+614,Shield +2,5,31,4,4,"4,000",6
+615,Shield +3,5,31,5,5,"25,000",6
+616,Shield of Missile Attraction,5,60,3,4,"4,000",5
+617,Shortbow +1,5,70,2,4,"1,000",3
+618,Shortbow +2,5,70,3,4,"3,000",3
+619,Shortbow +3,5,70,4,4,"15,000",3
+620,Shortsword +1,5,71,2,4,"1,000",2
+621,Shortsword +2,5,71,3,4,"3,000",2
+622,Shortsword +3,5,71,4,4,"15,000",2
+623,Sickle +1,5,69,2,4,"1,000",2
+624,Sickle +2,5,69,3,4,"3,000",2
+625,Sickle +3,5,69,4,4,"15,000",2
+626,Sling +1,5,70,2,4,"1,000",0
+627,Sling +2,5,70,3,4,"3,000",0
+628,Sling +3,5,70,4,4,"15,000",0
+629,Sling Bullet +1,5,5,2,4,15,1.5
+630,Sling Bullet +2,5,5,3,4,50,1.5
+631,Sling Bullet +3,5,5,4,4,50,1.5
+632,Slippers of Spider Climbing,5,9,2,4,"2,000",0
+633,Sovereign Glue,5,44,5,5,400,0
+634,Spear +1,5,69,2,4,"1,000",3
+635,Spear +2,5,69,3,4,"3,000",3
+636,Spear +3,5,69,4,4,"15,000",3
+637,Spell Scroll Level 0: Blade Ward,5,58,1,4,20,0
+638,Spell Scroll Level 0: Chill Touch,5,58,1,4,20,0
+639,Spell Scroll Level 0: Dancing Lights,5,58,1,4,20,0
+640,Spell Scroll Level 0: Druidcraft,5,58,1,4,20,0
+641,Spell Scroll Level 0: Eldritch Blast,5,58,1,4,20,0
+642,Spell Scroll Level 0: Fire Bolt,5,58,1,4,20,0
+643,Spell Scroll Level 0: Friends,5,58,1,4,20,0
+644,Spell Scroll Level 0: Guidance,5,58,1,4,20,0
+645,Spell Scroll Level 0: Light,5,58,1,4,20,0
+646,Spell Scroll Level 0: Mage Hand,5,58,1,4,20,0
+647,Spell Scroll Level 0: Mending,5,58,1,4,20,0
+648,Spell Scroll Level 0: Message,5,58,1,4,20,0
+649,Spell Scroll Level 0: Minor Illusion,5,58,1,4,20,0
+650,Spell Scroll Level 0: Poison Spray,5,58,1,4,20,0
+651,Spell Scroll Level 0: Prestidigitation,5,58,1,4,20,0
+652,Spell Scroll Level 0: Produce Flame,5,58,1,4,20,0
+653,Spell Scroll Level 0: Ray of Frost,5,58,1,4,20,0
+654,Spell Scroll Level 0: Resistance,5,58,1,4,20,0
+655,Spell Scroll Level 0: Sacred Flame,5,58,1,4,20,0
+656,Spell Scroll Level 0: Shillelagh,5,58,1,4,20,0
+657,Spell Scroll Level 0: Shocking Grasp,5,58,1,4,20,0
+658,Spell Scroll Level 0: Spare the Dying,5,58,1,4,20,0
+659,Spell Scroll Level 0: Thaumaturgy,5,58,1,4,20,0
+660,Spell Scroll Level 0: Thorn Whip,5,58,1,4,20,0
+661,Spell Scroll Level 0: True Strike,5,58,1,4,20,0
+662,Spell Scroll Level 0: Vicious Mockery,5,58,1,4,20,0
+663,Spell Scroll Level 1: Alarm,5,58,1,4,40,0
+664,Spell Scroll Level 1: Animal Friendship,5,58,1,4,40,0
+665,Spell Scroll Level 1: Armor of Agathys,5,58,1,4,40,0
+666,Spell Scroll Level 1: Arms of Hadar,5,58,1,4,40,0
+667,Spell Scroll Level 1: Bane,5,58,1,4,40,0
+668,Spell Scroll Level 1: Banishing Smite,5,58,1,4,40,0
+669,Spell Scroll Level 1: Bless,5,58,1,4,40,0
+670,Spell Scroll Level 1: Burning Hands,5,58,1,4,40,0
+671,Spell Scroll Level 1: Charm Person,5,58,1,4,40,0
+672,Spell Scroll Level 1: Chromatic Orb,5,58,1,4,40,0
+673,Spell Scroll Level 1: Color Spray,5,58,1,4,40,0
+674,Spell Scroll Level 1: Command,5,58,1,4,40,0
+675,Spell Scroll Level 1: Compelled Duel,5,58,1,4,40,0
+676,Spell Scroll Level 1: Comprehend Languages,5,58,1,4,40,0
+677,Spell Scroll Level 1: Create or Destroy Water,5,58,1,4,40,0
+678,Spell Scroll Level 1: Cure Wounds,5,58,1,4,40,0
+679,Spell Scroll Level 1: Detect Evil and Good,5,58,1,4,40,0
+680,Spell Scroll Level 1: Detect Magic,5,58,1,4,40,0
+681,Spell Scroll Level 1: Detect Poison and Disease,5,58,1,4,40,0
+682,Spell Scroll Level 1: Disguise Self,5,58,1,4,40,0
+683,Spell Scroll Level 1: Dissonant Whispers,5,58,1,4,40,0
+684,Spell Scroll Level 1: Divine Favor,5,58,1,4,40,0
+685,Spell Scroll Level 1: Ensnaring Strike,5,58,1,4,40,0
+686,Spell Scroll Level 1: Entangle,5,58,1,4,40,0
+687,Spell Scroll Level 1: Expeditious Retreat,5,58,1,4,40,0
+688,Spell Scroll Level 1: Faerie Fire,5,58,1,4,40,0
+689,Spell Scroll Level 1: False Life,5,58,1,4,40,0
+690,Spell Scroll Level 1: Feather Fall,5,58,1,4,40,0
+691,Spell Scroll Level 1: Find Familiar,5,58,1,4,40,0
+692,Spell Scroll Level 1: Fog Cloud,5,58,1,4,40,0
+693,Spell Scroll Level 1: Goodberry,5,58,1,4,40,0
+694,Spell Scroll Level 1: Grease,5,58,1,4,40,0
+695,Spell Scroll Level 1: Guiding Bolt,5,58,1,4,40,0
+696,Spell Scroll Level 1: Hail of Thorns,5,58,1,4,40,0
+697,Spell Scroll Level 1: Healing Word,5,58,1,4,40,0
+698,Spell Scroll Level 1: Hellish Rebuke,5,58,1,4,40,0
+699,Spell Scroll Level 1: Heroism,5,58,1,4,40,0
+700,Spell Scroll Level 1: Hex,5,58,1,4,40,0
+701,Spell Scroll Level 1: Hunter's Mark,5,58,1,4,40,0
+702,Spell Scroll Level 1: Identify,5,58,1,4,40,0
+703,Spell Scroll Level 1: Illusory Script,5,58,1,4,40,0
+704,Spell Scroll Level 1: Inflict Wounds,5,58,1,4,40,0
+705,Spell Scroll Level 1: Jump,5,58,1,4,40,0
+706,Spell Scroll Level 1: Longstrider,5,58,1,4,40,0
+707,Spell Scroll Level 1: Mage Armor,5,58,1,4,40,0
+708,Spell Scroll Level 1: Magic Missile,5,58,1,4,40,0
+709,Spell Scroll Level 1: Protection from Evil and Good,5,58,1,4,40,0
+710,Spell Scroll Level 1: Purify Food and Drink,5,58,1,4,40,0
+711,Spell Scroll Level 1: Ray of Sickness,5,58,1,4,40,0
+712,Spell Scroll Level 1: Sanctuary,5,58,1,4,40,0
+713,Spell Scroll Level 1: Searing Smite,5,58,1,4,40,0
+714,Spell Scroll Level 1: Shield,5,58,1,4,40,0
+715,Spell Scroll Level 1: Shield of Faith,5,58,1,4,40,0
+716,Spell Scroll Level 1: Silent Image,5,58,1,4,40,0
+717,Spell Scroll Level 1: Sleep,5,58,1,4,40,0
+718,Spell Scroll Level 1: Speak with Animals,5,58,1,4,40,0
+719,Spell Scroll Level 1: Tasha's Hideous Laughter,5,58,1,4,40,0
+720,Spell Scroll Level 1: Tenser's Floating Disk,5,58,1,4,40,0
+721,Spell Scroll Level 1: Thunderous Smite,5,58,1,4,40,0
+722,Spell Scroll Level 1: Thunderwave,5,58,1,4,40,0
+723,Spell Scroll Level 1: Unseen Servant,5,58,1,4,40,0
+724,Spell Scroll Level 1: Witch Bolt,5,58,1,4,40,0
+725,Spell Scroll Level 1: Wrathful Smite,5,58,1,4,40,0
+726,Spell Scroll Level 2: Aid,5,58,2,4,375,0
+727,Spell Scroll Level 2: Alter Self,5,58,2,4,375,0
+728,Spell Scroll Level 2: Animal Messenger,5,58,2,4,375,0
+729,Spell Scroll Level 2: Arcane Lock,5,58,2,4,375,0
+730,Spell Scroll Level 2: Augury,5,58,2,4,375,0
+731,Spell Scroll Level 2: Barkskin,5,58,2,4,375,0
+732,Spell Scroll Level 2: Beast Sense,5,58,2,4,375,0
+733,Spell Scroll Level 2: Blindness/Deafness,5,58,2,4,375,0
+734,Spell Scroll Level 2: Blur,5,58,2,4,375,0
+735,Spell Scroll Level 2: Branding Smite,5,58,2,4,375,0
+736,Spell Scroll Level 2: Calm Emotions,5,58,2,4,375,0
+737,Spell Scroll Level 2: Cloud of Daggers,5,58,2,4,375,0
+738,Spell Scroll Level 2: Continual Flame,5,58,2,4,375,0
+739,Spell Scroll Level 2: Cordon of Arrows,5,58,2,4,375,0
+740,Spell Scroll Level 2: Crown of Madness,5,58,2,4,375,0
+741,Spell Scroll Level 2: Darkness,5,58,2,4,375,0
+742,Spell Scroll Level 2: Darkvision,5,58,2,4,375,0
+743,Spell Scroll Level 2: Detect Thoughts,5,58,2,4,375,0
+744,Spell Scroll Level 2: Enhance Ability,5,58,2,4,375,0
+745,Spell Scroll Level 2: Enlarge/Reduce,5,58,2,4,375,0
+746,Spell Scroll Level 2: Enthrall,5,58,2,4,375,0
+747,Spell Scroll Level 2: Find Steed,5,58,2,4,375,0
+748,Spell Scroll Level 2: Find Traps,5,58,2,4,375,0
+749,Spell Scroll Level 2: Flame Blade,5,58,2,4,375,0
+750,Spell Scroll Level 2: Flaming Sphere,5,58,2,4,375,0
+751,Spell Scroll Level 2: Gentle Repose,5,58,2,4,375,0
+752,Spell Scroll Level 2: Gust of Wind,5,58,2,4,375,0
+753,Spell Scroll Level 2: Heat Metal,5,58,2,4,375,0
+754,Spell Scroll Level 2: Hold Person,5,58,2,4,375,0
+755,Spell Scroll Level 2: Invisibility,5,58,2,4,375,0
+756,Spell Scroll Level 2: Knock,5,58,2,4,375,0
+757,Spell Scroll Level 2: Lesser Restoration,5,58,2,4,375,0
+758,Spell Scroll Level 2: Levitate,5,58,2,4,375,0
+759,Spell Scroll Level 2: Locate Animals or Plants,5,58,2,4,375,0
+760,Spell Scroll Level 2: Locate Object,5,58,2,4,375,0
+761,Spell Scroll Level 2: Magic Mouth,5,58,2,4,375,0
+762,Spell Scroll Level 2: Magic Weapon,5,58,2,4,375,0
+763,Spell Scroll Level 2: Melf's Acid Arrow,5,58,2,4,375,0
+764,Spell Scroll Level 2: Mirror Image,5,58,2,4,375,0
+765,Spell Scroll Level 2: Misty Step,5,58,2,4,375,0
+766,Spell Scroll Level 2: Moonbeam,5,58,2,4,375,0
+767,Spell Scroll Level 2: Nystul's Magic Aura,5,58,2,4,375,0
+768,Spell Scroll Level 2: Pass Without Trace,5,58,2,4,375,0
+769,Spell Scroll Level 2: Phantasmal Force,5,58,2,4,375,0
+770,Spell Scroll Level 2: Prayer of Healing,5,58,2,4,375,0
+771,Spell Scroll Level 2: Protection from Poison,5,58,2,4,375,0
+772,Spell Scroll Level 2: Ray of Enfeeblement,5,58,2,4,375,0
+773,Spell Scroll Level 2: Rope Trick,5,58,2,4,375,0
+774,Spell Scroll Level 2: Scorching Ray,5,58,2,4,375,0
+775,Spell Scroll Level 2: See Invisibility,5,58,2,4,375,0
+776,Spell Scroll Level 2: Shatter,5,58,2,4,375,0
+777,Spell Scroll Level 2: Silence,5,58,2,4,375,0
+778,Spell Scroll Level 2: Spider Climb,5,58,2,4,375,0
+779,Spell Scroll Level 2: Spike Growth,5,58,2,4,375,0
+780,Spell Scroll Level 2: Spiritual Weapon,5,58,2,4,375,0
+781,Spell Scroll Level 2: Suggestion,5,58,2,4,375,0
+782,Spell Scroll Level 2: Warding Bond,5,58,2,4,375,0
+783,Spell Scroll Level 2: Web,5,58,2,4,375,0
+784,Spell Scroll Level 2: Zone of Truth,5,58,2,4,375,0
+785,Spell Scroll Level 3: Animate Dead,5,58,2,4,750,0
+786,Spell Scroll Level 3: Auta of Vitality,5,58,2,4,750,0
+787,Spell Scroll Level 3: Beacon of Hope,5,58,2,4,750,0
+788,Spell Scroll Level 3: Bestow Curse,5,58,2,4,750,0
+789,Spell Scroll Level 3: Blinding Smite,5,58,2,4,750,0
+790,Spell Scroll Level 3: Blink,5,58,2,4,750,0
+791,Spell Scroll Level 3: Call Lightning,5,58,2,4,750,0
+792,Spell Scroll Level 3: Clairvoyance,5,58,2,4,750,0
+793,Spell Scroll Level 3: Conjure Animals,5,58,2,4,750,0
+794,Spell Scroll Level 3: Conjure Barrage,5,58,2,4,750,0
+795,Spell Scroll Level 3: Counterspell,5,58,2,4,750,0
+796,Spell Scroll Level 3: Create Food and Water,5,58,2,4,750,0
+797,Spell Scroll Level 3: Crusader's Mantle,5,58,2,4,750,0
+798,Spell Scroll Level 3: Daylight,5,58,2,4,750,0
+799,Spell Scroll Level 3: Dispel Magic,5,58,2,4,750,0
+800,Spell Scroll Level 3: Elemental Weapon,5,58,2,4,750,0
+801,Spell Scroll Level 3: Fear,5,58,2,4,750,0
+802,Spell Scroll Level 3: Feign Death,5,58,2,4,750,0
+803,Spell Scroll Level 3: Fireball,5,58,2,4,750,0
+804,Spell Scroll Level 3: Fly,5,58,2,4,750,0
+805,Spell Scroll Level 3: Gaseous Form,5,58,2,4,750,0
+806,Spell Scroll Level 3: Glyph of Warding,5,58,2,4,750,0
+807,Spell Scroll Level 3: Haste,5,58,2,4,750,0
+808,Spell Scroll Level 3: Hunger of Hadar,5,58,2,4,750,0
+809,Spell Scroll Level 3: Hypnotic Pattern,5,58,2,4,750,0
+810,Spell Scroll Level 3: Leomund's Tiny Hut,5,58,2,4,750,0
+811,Spell Scroll Level 3: Lightning Arrow,5,58,2,4,750,0
+812,Spell Scroll Level 3: Lightning Bolt,5,58,2,4,750,0
+813,Spell Scroll Level 3: Magic Circle,5,58,2,4,750,0
+814,Spell Scroll Level 3: Major Image,5,58,2,4,750,0
+815,Spell Scroll Level 3: Mass Healing Word,5,58,2,4,750,0
+816,Spell Scroll Level 3: Meld into Stone,5,58,2,4,750,0
+817,Spell Scroll Level 3: Nondetection,5,58,2,4,750,0
+818,Spell Scroll Level 3: Phantom Steed,5,58,2,4,750,0
+819,Spell Scroll Level 3: Plant Growth,5,58,2,4,750,0
+820,Spell Scroll Level 3: Protection from Energy,5,58,2,4,750,0
+821,Spell Scroll Level 3: Remove Curse,5,58,2,4,750,0
+822,Spell Scroll Level 3: Revivify,5,58,2,4,750,0
+823,Spell Scroll Level 3: Sending,5,58,2,4,750,0
+824,Spell Scroll Level 3: Sleet Storm,5,58,2,4,750,0
+825,Spell Scroll Level 3: Slow,5,58,2,4,750,0
+826,Spell Scroll Level 3: Speak with Dead,5,58,2,4,750,0
+827,Spell Scroll Level 3: Speak with Plants,5,58,2,4,750,0
+828,Spell Scroll Level 3: Spirit Guardians,5,58,2,4,750,0
+829,Spell Scroll Level 3: Stinking Cloud,5,58,2,4,750,0
+830,Spell Scroll Level 3: Tongues,5,58,2,4,750,0
+831,Spell Scroll Level 3: Vampiric Touch,5,58,2,4,750,0
+832,Spell Scroll Level 3: Water Breathing,5,58,2,4,750,0
+833,Spell Scroll Level 3: Water Walk,5,58,2,4,750,0
+834,Spell Scroll Level 3: Wind Wall,5,58,2,4,750,0
+835,Spell Scroll Level 4: Arcane Eye,5,58,3,4,"3,750",0
+836,Spell Scroll Level 4: Aura of Life,5,58,3,4,"3,750",0
+837,Spell Scroll Level 4: Aura of Purity,5,58,3,4,"3,750",0
+838,Spell Scroll Level 4: Banishment,5,58,3,4,"3,750",0
+839,Spell Scroll Level 4: Blight,5,58,3,4,"3,750",0
+840,Spell Scroll Level 4: Compulsion,5,58,3,4,"3,750",0
+841,Spell Scroll Level 4: Confusion,5,58,3,4,"3,750",0
+842,Spell Scroll Level 4: Conjure MInor Elementals,5,58,3,4,"3,750",0
+843,Spell Scroll Level 4: Conjure Woodland Beings,5,58,3,4,"3,750",0
+844,Spell Scroll Level 4: Control Water,5,58,3,4,"3,750",0
+845,Spell Scroll Level 4: Death Ward,5,58,3,4,"3,750",0
+846,Spell Scroll Level 4: Dimension Door,5,58,3,4,"3,750",0
+847,Spell Scroll Level 4: Divination,5,58,3,4,"3,750",0
+848,Spell Scroll Level 4: Dominate Beast,5,58,3,4,"3,750",0
+849,Spell Scroll Level 4: Evard's Black Tentacles,5,58,3,4,"3,750",0
+850,Spell Scroll Level 4: Fabricate,5,58,3,4,"3,750",0
+851,Spell Scroll Level 4: Fire Shield,5,58,3,4,"3,750",0
+852,Spell Scroll Level 4: Freedom of Movement,5,58,3,4,"3,750",0
+853,Spell Scroll Level 4: Giant Insect,5,58,3,4,"3,750",0
+854,Spell Scroll Level 4: Grasping Vine,5,58,3,4,"3,750",0
+855,Spell Scroll Level 4: Greater Invisibility,5,58,3,4,"3,750",0
+856,Spell Scroll Level 4: Guardian of Faith,5,58,3,4,"3,750",0
+857,Spell Scroll Level 4: Hallucinatory Terrain,5,58,3,4,"3,750",0
+858,Spell Scroll Level 4: Ice Storm,5,58,3,4,"3,750",0
+859,Spell Scroll Level 4: Leomund's Secret Chest,5,58,3,4,"3,750",0
+860,Spell Scroll Level 4: Locate Creature,5,58,3,4,"3,750",0
+861,Spell Scroll Level 4: Mordenkainen's Faithful Hound,5,58,3,4,"3,750",0
+862,Spell Scroll Level 4: Mordenkainen's Private Sanctum,5,58,3,4,"3,750",0
+863,Spell Scroll Level 4: Otiluke's Resilient Sphere,5,58,3,4,"3,750",0
+864,Spell Scroll Level 4: Phantasmal Killer,5,58,3,4,"3,750",0
+865,Spell Scroll Level 4: Polymorph,5,58,3,4,"3,750",0
+866,Spell Scroll Level 4: Staggering Smite,5,58,3,4,"3,750",0
+867,Spell Scroll Level 4: Stone Shape,5,58,3,4,"3,750",0
+868,Spell Scroll Level 4: Stoneskin,5,58,3,4,"3,750",0
+869,Spell Scroll Level 4: Wall of Fire,5,58,3,4,"3,750",0
+870,Spell Scroll Level 5: Animate Objects,5,58,3,4,"7,500",0
+871,Spell Scroll Level 5: Antilife Shell,5,58,3,4,"7,500",0
+872,Spell Scroll Level 5: Awaken,5,58,3,4,"7,500",0
+873,Spell Scroll Level 5: Bigby's Hand,5,58,3,4,"7,500",0
+874,Spell Scroll Level 5: Circle of Power,5,58,3,4,"7,500",0
+875,Spell Scroll Level 5: Cloudkill,5,58,3,4,"7,500",0
+876,Spell Scroll Level 5: Commune,5,58,3,4,"7,500",0
+877,Spell Scroll Level 5: Commune with Nature,5,58,3,4,"7,500",0
+878,Spell Scroll Level 5: Cone of Cold,5,58,3,4,"7,500",0
+879,Spell Scroll Level 5: Conjure Elemental,5,58,3,4,"7,500",0
+880,Spell Scroll Level 5: Conjure Volley,5,58,3,4,"7,500",0
+881,Spell Scroll Level 5: Contact Other Plane,5,58,3,4,"7,500",0
+882,Spell Scroll Level 5: Contagion,5,58,3,4,"7,500",0
+883,Spell Scroll Level 5: Creation,5,58,3,4,"7,500",0
+884,Spell Scroll Level 5: Destructive Wave,5,58,3,4,"7,500",0
+885,Spell Scroll Level 5: Dispell Evil and Good,5,58,3,4,"7,500",0
+886,Spell Scroll Level 5: Dominate Person,5,58,3,4,"7,500",0
+887,Spell Scroll Level 5: Dream,5,58,3,4,"7,500",0
+888,Spell Scroll Level 5: Flame Strike,5,58,3,4,"7,500",0
+889,Spell Scroll Level 5: Geas,5,58,3,4,"7,500",0
+890,Spell Scroll Level 5: Greater Restoration,5,58,3,4,"7,500",0
+891,Spell Scroll Level 5: Hallow,5,58,3,4,"7,500",0
+892,Spell Scroll Level 5: Hold Monster,5,58,3,4,"7,500",0
+893,Spell Scroll Level 5: Insect Plague,5,58,3,4,"7,500",0
+894,Spell Scroll Level 5: Legend Lore,5,58,3,4,"7,500",0
+895,Spell Scroll Level 5: Mass Cure Wounds,5,58,3,4,"7,500",0
+896,Spell Scroll Level 5: Mislead,5,58,3,4,"7,500",0
+897,Spell Scroll Level 5: Modify Memory,5,58,3,4,"7,500",0
+898,Spell Scroll Level 5: Passwall,5,58,3,4,"7,500",0
+899,Spell Scroll Level 5: Planar Binding,5,58,3,4,"7,500",0
+900,Spell Scroll Level 5: Raise Dead,5,58,3,4,"7,500",0
+901,Spell Scroll Level 5: Rary's Telepathic Bond,5,58,3,4,"7,500",0
+902,Spell Scroll Level 5: Reincarnate,5,58,3,4,"7,500",0
+903,Spell Scroll Level 5: Scrying,5,58,3,4,"7,500",0
+904,Spell Scroll Level 5: Seeming,5,58,3,4,"7,500",0
+905,Spell Scroll Level 5: Swift Quiver,5,58,3,4,"7,500",0
+906,Spell Scroll Level 5: Telekinesis,5,58,3,4,"7,500",0
+907,Spell Scroll Level 5: Teleportation Circle,5,58,3,4,"7,500",0
+908,Spell Scroll Level 5: Tree Stride,5,58,3,4,"7,500",0
+909,Spell Scroll Level 5: Wall of Force,5,58,3,4,"7,500",0
+910,Spell Scroll Level 5: Wall of Stone,5,58,3,4,"7,500",0
+911,Spell Scroll Level 6: Arcane Gate,5,58,4,4,"22,500",0
+912,Spell Scroll Level 6: Blade Barrier,5,58,4,4,"22,500",0
+913,Spell Scroll Level 6: Chain Lightning,5,58,4,4,"22,500",0
+914,Spell Scroll Level 6: Circle of Death,5,58,4,4,"22,500",0
+915,Spell Scroll Level 6: Conjure Fey,5,58,4,4,"22,500",0
+916,Spell Scroll Level 6: Contingency,5,58,4,4,"22,500",0
+917,Spell Scroll Level 6: Create Undead,5,58,4,4,"22,500",0
+918,Spell Scroll Level 6: Disintegrate,5,58,4,4,"22,500",0
+919,Spell Scroll Level 6: Drawmij's Instant Summons,5,58,4,4,"22,500",0
+920,Spell Scroll Level 6: Eyebite,5,58,4,4,"22,500",0
+921,Spell Scroll Level 6: Find the Path,5,58,4,4,"22,500",0
+922,Spell Scroll Level 6: Flesh to Stone,5,58,4,4,"22,500",0
+923,Spell Scroll Level 6: Forbiddance,5,58,4,4,"22,500",0
+924,Spell Scroll Level 6: Globe of Invulnerability,5,58,4,4,"22,500",0
+925,Spell Scroll Level 6: Guards and Wards,5,58,4,4,"22,500",0
+926,Spell Scroll Level 6: Harm,5,58,4,4,"22,500",0
+927,Spell Scroll Level 6: Heal,5,58,4,4,"22,500",0
+928,Spell Scroll Level 6: Heroes' Feast,5,58,4,4,"22,500",0
+929,Spell Scroll Level 6: Magic Jar,5,58,4,4,"22,500",0
+930,Spell Scroll Level 6: Mass Suggestion,5,58,4,4,"22,500",0
+931,Spell Scroll Level 6: Move Earth,5,58,4,4,"22,500",0
+932,Spell Scroll Level 6: Otiluke's Freezing Sphere,5,58,4,4,"22,500",0
+933,Spell Scroll Level 6: Otto's Irresistible Dance,5,58,4,4,"22,500",0
+934,Spell Scroll Level 6: Planar Ally,5,58,4,4,"22,500",0
+935,Spell Scroll Level 6: Programmed Illusion,5,58,4,4,"22,500",0
+936,Spell Scroll Level 6: Sunbeam,5,58,4,4,"22,500",0
+937,Spell Scroll Level 6: Transport via Plants,5,58,4,4,"22,500",0
+938,Spell Scroll Level 6: True Seeing,5,58,4,4,"22,500",0
+939,Spell Scroll Level 6: Wall of Ice,5,58,4,4,"22,500",0
+940,Spell Scroll Level 6: Wall of Thorns,5,58,4,4,"22,500",0
+941,Spell Scroll Level 6: Wind Walk,5,58,4,4,"22,500",0
+942,Spell Scroll Level 6: Word of Recall,5,58,4,4,"22,500",0
+943,Spell Scroll Level 7: Conjure Celestial,5,58,4,4,"25,000",0
+944,Spell Scroll Level 7: Delayed Blast Fireball,5,58,4,4,"25,000",0
+945,Spell Scroll Level 7: Divine Word,5,58,4,4,"25,000",0
+946,Spell Scroll Level 7: Etherealness,5,58,4,4,"25,000",0
+947,Spell Scroll Level 7: Finger of Death,5,58,4,4,"25,000",0
+948,Spell Scroll Level 7: Fire Storm,5,58,4,4,"25,000",0
+949,Spell Scroll Level 7: Forcecage,5,58,4,4,"25,000",0
+950,Spell Scroll Level 7: Mirage Arcane,5,58,4,4,"25,000",0
+951,Spell Scroll Level 7: Mordenkainen's Magnificent Mansion,5,58,4,4,"25,000",0
+952,Spell Scroll Level 7: Mordenkainen's Sword,5,58,4,4,"25,000",0
+953,Spell Scroll Level 7: Plane Shift,5,58,4,4,"25,000",0
+954,Spell Scroll Level 7: Prismatic Spray,5,58,4,4,"25,000",0
+955,Spell Scroll Level 7: Project Image,5,58,4,4,"25,000",0
+956,Spell Scroll Level 7: Regenerate,5,58,4,4,"25,000",0
+957,Spell Scroll Level 7: Resurrection,5,58,4,4,"25,000",0
+958,Spell Scroll Level 7: Reverse Gravity,5,58,4,4,"25,000",0
+959,Spell Scroll Level 7: Sequester,5,58,4,4,"25,000",0
+960,Spell Scroll Level 7: Simulacrum,5,58,4,4,"25,000",0
+961,Spell Scroll Level 7: Symbol,5,58,4,4,"25,000",0
+962,Spell Scroll Level 7: Teleport,5,58,4,4,"25,000",0
+963,Spell Scroll Level 8: Animal Shapes,5,58,4,4,"75,000",0
+964,Spell Scroll Level 8: Antimagic Field,5,58,4,4,"75,000",0
+965,Spell Scroll Level 8: Antipathy/Sympathy,5,58,4,4,"75,000",0
+966,Spell Scroll Level 8: Clone,5,58,4,4,"75,000",0
+967,Spell Scroll Level 8: Control Weather,5,58,4,4,"75,000",0
+968,Spell Scroll Level 8: Demiplane,5,58,4,4,"75,000",0
+969,Spell Scroll Level 8: Dominate Monster,5,58,4,4,"75,000",0
+970,Spell Scroll Level 8: Earthquake,5,58,4,4,"75,000",0
+971,Spell Scroll Level 8: Feeblemind,5,58,4,4,"75,000",0
+972,Spell Scroll Level 8: Glibness,5,58,4,4,"75,000",0
+973,Spell Scroll Level 8: Holy Aura,5,58,4,4,"75,000",0
+974,Spell Scroll Level 8: Incendiary Cloud,5,58,4,4,"75,000",0
+975,Spell Scroll Level 8: Maze,5,58,4,4,"75,000",0
+976,Spell Scroll Level 8: Mind Blank,5,58,4,4,"75,000",0
+977,Spell Scroll Level 8: Power Word Stun,5,58,4,4,"75,000",0
+978,Spell Scroll Level 8: Sunburst,5,58,4,4,"75,000",0
+979,Spell Scroll Level 8: Telepathy,5,58,4,4,"75,000",0
+980,Spell Scroll Level 8: Tsunami,5,58,4,4,"75,000",0
+981,Spell Scroll Level 9: Astral Projection,5,58,5,5,"375,000",0
+982,Spell Scroll Level 9: Foresight,5,58,5,5,"375,000",0
+983,Spell Scroll Level 9: Gate,5,58,5,5,"375,000",0
+984,Spell Scroll Level 9: Imprisonment,5,58,5,5,"375,000",0
+985,Spell Scroll Level 9: Mass Heal,5,58,5,5,"375,000",0
+986,Spell Scroll Level 9: Meteor Swarm,5,58,5,5,"375,000",0
+987,Spell Scroll Level 9: Power Word Heal,5,58,5,5,"375,000",0
+988,Spell Scroll Level 9: Power Word Kill,5,58,5,5,"375,000",0
+989,Spell Scroll Level 9: Prismatic Wall,5,58,5,5,"375,000",0
+990,Spell Scroll Level 9: Shapechange,5,58,5,5,"375,000",0
+991,Spell Scroll Level 9: Storm of Vengeance,5,58,5,5,"375,000",0
+992,Spell Scroll Level 9: Time Stop,5,58,5,5,"375,000",0
+993,Spell Scroll Level 9: True Polymorph,5,58,5,5,"375,000",0
+994,Spell Scroll Level 9: True Resurrection,5,58,5,5,"375,000",0
+995,Spell Scroll Level 9: Weird,5,58,5,5,"375,000",0
+996,Spell Scroll Level 9: Wish,5,58,5,5,"375,000",0
+997,Spellguard Shield,5,60,4,4,"36,000",5
+998,Splint +1,5,31,3,4,"1,500",60
+999,Splint +2,5,31,4,4,"4,000",60
+1000,Splint +3,5,31,5,5,"25,000",60
+1001,Staff of Charming,5,62,3,4,"12,000",5
+1002,Staff of Fire,5,62,4,4,"16,000",5
+1003,Staff of Frost,5,62,4,4,"26,000",5
+1004,Staff of Healing,5,62,3,4,"13,000",5
+1005,Staff of Power,5,62,4,4,"95,500",5
+1006,Staff of Striking,5,62,4,4,"21,000",5
+1007,Staff of Swarming Insects,5,62,3,4,"16,000",5
+1008,Staff of the Adder,5,62,2,4,"1,800",5
+1009,Staff of the Woodlands,5,62,3,4,"44,000",5
+1010,Staff of Thunder and Lightning,5,62,4,4,"10,000",5
+1011,Staff of Withering,5,62,3,4,"3,000",5
+1012,Studded Leather +1,5,36,3,4,"1,500",13
+1013,Studded Leather +2,5,36,4,4,"4,000",13
+1014,Studded Leather +3,5,36,5,5,"25,000",13
+1015,Sunblade,5,71,3,4,"8,000",3
+1016,Sword of Answering,5,71,5,5,"30,000",3
+1017,Sword of Life-Stealing,5,71,3,4,"1,000",3
+1018,Sword of Sharpness,5,71,3,4,"1,700",3
+1019,Sword of Wounding,5,71,3,4,"2,000",3
+1020,Talisman of Pure Good,5,64,5,5,"72,000",0
+1021,Talisman of the Sphere,5,64,5,5,"20,000",0
+1022,Talisman of Ultimate Evil,5,64,5,5,"62,000",0
+1023,Tentacle Rod,5,55,3,4,"5,000",2
+1024,Trident +1,5,71,2,4,"1,000",5
+1025,Trident +2,5,71,3,4,"3,000",5
+1026,Trident +3,5,71,4,4,"15,000",5
+1027,Trident of Fish Command,5,71,2,4,800,5
+1028,Universal Solvent,5,44,5,5,300,0
+1029,Vorpal Sword,5,71,5,5,"15,000",3
+1030,Wand of Binding,5,80,3,4,"10,000",1
+1031,Wand of Enemy Detection,5,80,3,4,"2,000",1
+1032,Wand of Fear,5,80,3,4,"10,000",1
+1033,Wand of Fireballs,5,80,3,4,"30,000",1
+1034,Wand of Lightning Bolts,5,80,3,4,"30,000",1
+1035,Wand of Magic Detection,5,80,2,4,"1,500",1
+1036,Wand of Magic Missiles,5,80,2,4,"5,000",1
+1037,Wand of Paralysis,5,80,3,4,"15,000",1
+1038,Wand of Polymorph,5,80,4,4,"40,000",1
+1039,Wand of Secrets,5,80,2,4,"1,500",1
+1040,Wand of the War Mage +1,5,80,2,4,"1,200",1
+1041,Wand of the War Mage +2,5,80,3,4,"4,800",1
+1042,Wand of the War Mage +3,5,80,4,4,"19,200",1
+1043,Wand of Web,5,80,2,4,"8,000",1
+1044,War pick +1,5,71,2,4,"1,000",2
+1045,War pick +2,5,71,3,4,"3,000",2
+1046,War pick +3,5,71,4,4,"15,000",2
+1047,Warhammer +1,5,71,2,4,"1,000",2
+1048,Warhammer +2,5,71,3,4,"3,000",2
+1049,Warhammer +3,5,71,4,4,"15,000",2
+1050,Whip +1,5,71,2,4,"1,000",3
+1051,Whip +2,5,71,3,4,"3,000",3
+1052,Whip +3,5,71,4,4,"15,000",3
+1053,Wind Fan,5,2,2,4,"1,500",0
+1054,Winged Boots,5,82,2,4,"4,000",5
+1055,Wings of Flying,5,2,3,4,"5,000",1

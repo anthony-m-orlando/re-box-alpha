@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Press Start 2P');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.home-page{
+    gap: 10px;
+    font-family: 'Press Start 2P', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    background-image: linear-gradient(to bottom, #0d47e9, rgb(230, 230, 236));
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    margin: 0;
+}
+
+.aside-component{
+    background-color: blue;
+    border: white;
+    border-style: groove;
+    border-radius: 5px;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+}
+
+.form-group {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1%;
+    padding-right: 1%;
+}

@@ -1,0 +1,3 @@
+<template>
+    Load Journey
+</template>

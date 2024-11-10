@@ -1,0 +1,13 @@
+1. Combine DB Scripts
+2. Combine POJO
+3. Combine DAO
+3. Generate Unit Tests
+4. Combine Service Endpoints
+5. Integrate Dice Roller API
+5. Combine Vuex Store
+6. Rebuild Character Manager (CRUD)
+7. Integrate Useless Dungeon UI
+8. Modify Combat Engine to Initiate Attack 
+
+
+

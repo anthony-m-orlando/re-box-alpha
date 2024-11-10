@@ -1,0 +1,7 @@
+ItemTypeID,ItemTypeName,ItemTypeDescription
+1,Consumable,A Single Use Item
+2,Weapon,Any Weapon Item
+3,Armor,Any Armor Item
+4,Adventuring Gear,Tools and Items used in the game
+5,Magic Item,Any Enchanted Item
+6,Container,Any Item that can hold contents

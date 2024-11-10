@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="/public/img/icons/black-skull.png">
+  <link rel="stylesheet" href="/src/css/global.css">
+  <title>Hero Quest Journeys</title>
+  <script type="module" src="/src/main.js"></script>
+</head>
+
+<html>
+  <body>
+    <div id="app" class="rpgui-content">
+        <div id ="contents" class="rpgui-container framed-golden">
+          <img src="/public/img/heroquest-logo.png" alt="Hero Quest">
+          <div id="journeys_label">Welcome to Hero Quest Journeys</div>
+          <div id="nav-buttons">
+            <button id="new-journey" class="rpgui-button" onclick="document.location.replace('index.html')">Home</button>
+            <button id="load-journey" class="rpgui-button" onclick="document.location.replace('load-quest.html')">Load Journey</button>
+            <button id="load-journey" class="rpgui-button">Log Out</button>
+          </div>
+          <div class="rpgui-container framed" id="new-journey-form">
+            <form>
+                <label for="journey-name">Journey Name:</label>
+                <input class="rpgui-text" type="text" id="journey-name" name="journey-name" />
+                <label for="campaign">Select Campaign:</label>
+                <select class="rpgui-dropdown" id="campaign" name="campaign">
+                  <option value="1">Original Campaign</option>
+                  <option value="2">Kellars Keep</option>
+                  <option value="3">Return of the Witch Lord</option>
+                </select>
+                <hr class="golden">
+                <label for="heroes">Select Heroes:</label>
+                <select class="rpgui-list" multiple>
+                    <option value="option1">Barbarian</option>
+                    <option value="option2">Bard</option>
+                    <option value="option3">Dwarf</option>
+                    <option value="option4">Elf</option>
+                    <option value="option5">Monk</option>
+                    <option value="option6">Rogue</option>
+                    <option value="option7">Warlock</option>
+                    <option value="option8">Wizard</option>
+                </select>
+                <hr class="golden">
+                <label for="heroes">Select Difficulty:</label>
+                <input class="rpgui-radio" type="radio" value="some val"><label>Casual</label>
+                <input class="rpgui-radio" type="radio" value="some val"><label>Normal</label>
+                <input class="rpgui-radio" type="radio" value="some val"><label>Hard</label>
+                <input class="rpgui-radio" type="radio" value="some val"><label>Nightmare</label>
+                <hr class="golden">
+                <button class="rpgui-button golden" type="button" onclick="document.location.replace('map-view.html')"><p>Start Journey</p></button>
+                <button class="rpgui-button golden" type="button" onclick="document.location.replace('index.html')"><p>Cancel</p></button>
+            </form>
+          </div>
+        </div>
+      
+      </div>
+  </body>
+</html>

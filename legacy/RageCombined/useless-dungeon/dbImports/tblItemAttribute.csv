@@ -1,0 +1,54 @@
+AttributeID,AttributeTypeID,AttributeSubTypeID,AttributeName
+1,1,1,1 Piercing
+2,1,1,1d10 Piercing
+3,1,1,1d10 Slashing
+4,1,1,1d12 Piercing
+5,1,1,1d12 Slashing
+6,1,1,1d4 Bludgeon
+7,1,1,1d4 Piercing
+8,1,1,1d4 Slashing
+9,1,1,1d6 Bludgeon
+10,1,1,1d6 Piercing
+11,1,1,1d6 Slashing
+12,1,1,1d8 Bludgeon
+13,1,1,1d8 Piercing
+14,1,1,1d8 Slashing
+15,1,1,2d6 Bludgeon
+16,1,1,2d6 Slashing
+17,2,3,AC Bonus 1 + Dex
+18,2,3,AC Bonus 2 + Dex
+19,2,3,AC Bonus 2 + Dex (Max 2)
+20,2,3,AC Bonus 3 + Dex (Max 2)
+21,2,3,AC Bonus 4 + Dex (Max 2)
+22,2,3,AC Bonus 5
+23,2,3,AC Bonus 5 + Dex (Max 2)
+24,2,3,AC Bonus 6
+25,2,3,AC Bonus 7
+26,2,3,AC Bonus 8
+27,1,2,Ammunition (100/400)
+28,1,2,Ammunition (150/600)
+29,1,2,Ammunition (25/100)
+30,1,2,Ammunition (30/120)
+31,1,2,Ammunition (80/320)
+32,2,4,Disadvantage on Stealth Check
+33,1,2,Finesse
+34,1,2,Heavy
+35,1,2,Light
+36,1,2,Loading
+37,1,2,Reach
+38,2,4,Required Strength 13
+39,2,4,Required Strength 15
+40,1,2,Special
+41,1,2,Thrown (20/60)
+42,1,2,Poorly Made -1 to Attack Rolls
+43,1,2,Masterwork +1 to Attack and Damage
+44,1,2,Thrown (30/120)
+45,1,2,Thrown (5/15)
+46,1,2,Two Handed
+47,1,2,Versatile (1d10)
+48,1,2,Versatile (1d8)
+49,2,3,AC Bonus 1
+50,2,3,AC Bonus 2
+51,1,2,Restricting
+52,2,3,AC Bonus 3
+53,2,3,AC Bonus 4

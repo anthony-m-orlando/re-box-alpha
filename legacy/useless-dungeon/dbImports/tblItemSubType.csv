@@ -1,0 +1,85 @@
+ItemSubTypeID,ItemSubTypeName
+1,Amulet
+2,Apparatus
+3,Backpack
+4,Bag
+5,Ammunition
+6,Barrel
+7,Basket
+8,Book
+9,Footwear
+10,Box
+11,Druidic Focus
+12,Caltrop
+13,Candle
+14,Case
+15,Chest
+16,Cloak
+17,Clothes
+18,Crate
+19,Crystal
+20,Cube
+21,Deck
+22,Dust
+23,Emblem
+24,Flask
+25,Gem
+26,Glass Bottle
+27,Gloves
+28,Eyewear
+29,Hat
+30,Haversack
+31,Heavy Armor
+32,Helm
+33,Instrument
+34,Jug
+35,Lantern
+36,Light Armor
+37,Lock
+38,Arcane Focus
+39,Manual
+40,Medallion
+41,Medium Armor
+42,Mirror
+43,Necklace
+44,Oil
+45,Ointment
+46,Orb
+47,Periapt
+48,Potion
+49,Pouch
+50,Quiver
+51,Rations
+52,Reliquary
+53,Ring
+54,Robe
+55,Rod
+56,Holy Symbol
+57,Safe
+58,Scroll
+59,Shackles
+60,Shield
+61,Footwear
+62,Staff
+63,Stone
+64,Talisman
+65,Token
+66,Tool
+67,Vial
+68,Waterskin
+69,Simple Melee Weapon
+70,Simple Ranged Weapon
+71,Martial Melee Weapon
+72,Martial Ranged Weapon
+73,Weapon Ammunition
+74,Holy Water
+75,Poison
+76,Food
+77,Sack
+78,Bead
+79,Bottle
+80,Wand
+81,Rope
+82,Boots
+83,Jewelry
+84,Belt

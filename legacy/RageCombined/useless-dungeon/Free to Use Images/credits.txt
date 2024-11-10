@@ -1,0 +1,33 @@
+Memtgs-CC-Att-3-Un.jpg - https://www.coolantarctica.com/gallery/scenic/views_of_antarctica.php
+
+Quick Review Topics:
+	Sub Queries
+	Physical Schemas
+	
+		
+ERD for Useless Dungeon
+Create Class Diagram (With Daos) For Useless Dungeon
+Include User Objects
+ 
+
+
+
+-- View: public.vw_MovieActors
+
+DROP VIEW public."vw_MovieActors";
+
+CREATE OR REPLACE VIEW public."vw_MovieActors"
+ AS
+ SELECT  person.person_id,  
+ 		 person.person_name,  
+		 person.birthday,  
+		 person.deathday,  
+		 person.biography,  
+		 person.profile_path,  
+		 person.home_page
+ FROM person
+ INNER JOIN movie_actor ON person.person_id = movie_actor.actor_id
+ INNER JOIN movie ON movie_actor.movie_id = movie.movie_id;
+ 
+ALTER TABLE public."vw_MovieActors"
+    OWNER TO postgres;

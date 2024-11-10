@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="/public/img/icons/black-skull.png">
+  <link rel="stylesheet" href="/src/css/global.css">
+  <title>Hero Quest Journeys</title>
+  <script type="module" src="/src/main.js"></script>
+</head>
+
+<html>
+  <body>
+    <div id="app" class="rpgui-content">
+        <div id ="contents" class="rpgui-container framed-golden">
+          <img src="/public/img/heroquest-logo.png" alt="Hero Quest">
+          <div id="journeys_label">Welcome to Hero Quest Journeys</div>
+          <div id="nav-buttons">
+            <button id="new-journey" class="rpgui-button" onclick="document.location.replace('index.html')">Home</button>
+            <button id="new-journey" class="rpgui-button" onclick="document.location.replace('new-quest.html')">New Journey</button>
+            <button id="load-journey" class="rpgui-button">Log Out</button>
+          </div>
+          <hr>
+          <form>
+            <label for="campaign">Select Journey:</label>
+            <select class="rpgui-dropdown" id="campaign" name="campaign">
+              <option value="1">AO Save 1</option>
+              <option value="2">RO Save1</option>
+              <option value="3">AO Save 2</option>
+            </select>
+            <hr>
+            <button class="rpgui-button golden" type="button" onclick="document.location.replace('map-view.html')"><p>Resume Journey</p></button>
+            <button class="rpgui-button golden" type="button" onclick="document.location.replace('index.html')"><p>Cancel</p></button>
+           </form>
+        </div>
+        
+      </div>
+  </body>
+</html>
