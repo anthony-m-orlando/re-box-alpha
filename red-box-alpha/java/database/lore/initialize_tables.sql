@@ -1,0 +1,7 @@
+BEGIN TRANSACTION;
+
+--INSERT INTO lore.table ()
+
+
+COMMIT TRANSACTION;
+

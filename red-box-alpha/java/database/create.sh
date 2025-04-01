@@ -1,9 +1,10 @@
 #!/bin/bash
 export PGPASSWORD='postgres1'
 BASEDIR=$(dirname $0)
-DATABASE=final_capstone
-psql -U postgres -f "$BASEDIR/dropdb.sql" &&
-createdb -U postgres $DATABASE &&
-psql -U postgres -d $DATABASE -f "$BASEDIR/schema.sql" &&
-psql -U postgres -d $DATABASE -f "$BASEDIR/data.sql" &&
-psql -U postgres -d $DATABASE -f "$BASEDIR/user.sql"
+DATABASE=bdnd01
+psql -U postgres -d $DATABASE -f "$BASEDIR/appcon/create_tables.sql" &&
+psql -U postgres -d $DATABASE -f "$BASEDIR/appcon/initialize_tables.sql" &&
+psql -U postgres -d $DATABASE -f "$BASEDIR/bdnd01/create_tables.sql" &&
+psql -U postgres -d $DATABASE -f "$BASEDIR/bdnd01/initialize_tables.sql" &&
+psql -U postgres -d $DATABASE -f "$BASEDIR/lore/create_tables.sql" &&
+psql -U postgres -d $DATABASE -f "$BASEDIR/lore/initialize_tables.sql" 
